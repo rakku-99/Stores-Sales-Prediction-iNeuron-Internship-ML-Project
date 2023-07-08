@@ -32,7 +32,7 @@ https://drive.google.com/drive/folders/1KDOWsxcvDJyJGRLhx0iW1QLeKPJbc83k?usp=sha
 
 ## Web Inerface :
 
-![1681636368946](image/README/1681636368946.png)
+![1681636368945](image/README/1681636368945.png)
 
 ## Libraries used :
 
